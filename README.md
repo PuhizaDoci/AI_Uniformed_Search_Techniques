@@ -1,4 +1,4 @@
-# AI_Uniformed_Search_Techniques
+# AI_Uniformed_Search_Techniques - Group 12
 
 This repository contains the semestral tasks/problems required for the Artificial Intelligence subject.
 It contains two problems:
